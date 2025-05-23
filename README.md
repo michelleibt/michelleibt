@@ -13,4 +13,5 @@
 ⚡ Fun fact: Além de jogar e dar minha opinião sobre o que acho do jogo, adoro personalizar meu conteúdo com capas de vídeos únicas!
 
 - 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"  width="40" height="40"/>
+<img src="![Gaming Logo](https://github.com/user-attachments/assets/695f7155-ebb9-4d30-8949-aa989a707c26)
+"  width="40" height="40"/>
