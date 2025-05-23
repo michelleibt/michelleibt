@@ -12,5 +12,4 @@
 
 ⚡ Fun fact: Além de jogar e dar minha opinião sobre o que acho do jogo, adoro personalizar meu conteúdo com capas de vídeos únicas!
 
-
-<img src=" stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
+<img src=" <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
